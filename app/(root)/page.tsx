@@ -4,6 +4,7 @@ export default function SetupPage() {
     <div className="h-screen">
       {/* <UserButton afterSignOutUrl="/"/> */}
       <h1>protected route page</h1>
+      {/* <Model/> */}
     </div>
   );
 }
